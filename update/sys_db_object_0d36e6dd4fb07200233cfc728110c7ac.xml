@@ -11,9 +11,9 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>Person</label>
+        <label>Pet</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>x_helloworldsnc_person</name>
+        <name>x_helloworldsnc_pet</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
@@ -22,20 +22,20 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-02-06 21:35:41</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>ca9e56194fb872001f6eac118110c70c</sys_id>
+        <sys_created_on>2017-02-06 22:08:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>0d36e6dd4fb07200233cfc728110c7ac</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Person</sys_name>
+        <sys_name>Pet</sys_name>
         <sys_package display_value="HelloWorldSNC" source="x_helloworldsnc">fc7e9a954fb872001f6eac118110c742</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="HelloWorldSNC">fc7e9a954fb872001f6eac118110c742</sys_scope>
-        <sys_update_name>sys_db_object_ca9e56194fb872001f6eac118110c70c</sys_update_name>
+        <sys_update_name>sys_db_object_0d36e6dd4fb07200233cfc728110c7ac</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-06 21:35:41</sys_updated_on>
+        <sys_updated_on>2017-02-06 22:08:40</sys_updated_on>
         <update_access>false</update_access>
-        <user_role display_value="x_helloworldsnc.person_user" name="x_helloworldsnc.person_user">92be5a194fb872001f6eac118110c771</user_role>
+        <user_role display_value="x_helloworldsnc.pet_user" name="x_helloworldsnc.pet_user">2946a2114ff07200233cfc728110c74a</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

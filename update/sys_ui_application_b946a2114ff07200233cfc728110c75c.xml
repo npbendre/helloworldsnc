@@ -3,25 +3,25 @@
     <sys_ui_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <hint/>
-        <name>Person</name>
+        <name>Pet</name>
         <order/>
-        <roles>x_helloworldsnc.person_user</roles>
+        <roles>x_helloworldsnc.pet_user</roles>
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-02-06 21:35:42</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_on>2017-02-06 22:08:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>32beda194fb872001f6eac118110c765</sys_id>
+        <sys_id>b946a2114ff07200233cfc728110c75c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Person</sys_name>
+        <sys_name>Pet</sys_name>
         <sys_overrides/>
         <sys_package display_value="HelloWorldSNC" source="x_helloworldsnc">fc7e9a954fb872001f6eac118110c742</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="HelloWorldSNC">fc7e9a954fb872001f6eac118110c742</sys_scope>
-        <sys_update_name>sys_ui_application_32beda194fb872001f6eac118110c765</sys_update_name>
+        <sys_update_name>sys_ui_application_b946a2114ff07200233cfc728110c75c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-06 21:35:42</sys_updated_on>
+        <sys_updated_on>2017-02-06 22:08:40</sys_updated_on>
     </sys_ui_application>
 </record_update>
